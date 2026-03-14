@@ -13,3 +13,16 @@ laptop_total = laptop_price * laptop_quantity
 mouse_total = mouse_price * mouse_quantity
 keyboard_total = keyboard_price  * keyboard_quantity
 
+cart_total = laptop_total + mouse_total + keyboard_total
+
+print(f"Laptop total: {laptop_total}")
+print(f"Mouse total: {mouse_total}")
+print(f"Keyboard total {keyboard_total}")
+
+print()
+print(f"Cart total: {cart_total}")
+
+
+# Adding a discount rule: 
+if cart_total > 1000:
+    print("You get 10% discount")
