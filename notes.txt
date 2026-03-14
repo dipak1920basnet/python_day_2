@@ -1,0 +1,17 @@
+State managements:
+
+=> The software are simple the state evolving over time 
+=> Python variables are how we store and manage states. 
+=> with variables we can remember the information between the steps. 
+=> The program updates the states continously
+=> Types behaves differently 
+example: 
+"5" + "3" = "53"
+5 + 3 = 8
+
+=> string concatenates while the numbers gets added. 
+
+=> As a programming engineer he/she should be constantly inspecting states
+example: 
+x = 10
+print(type(x))
