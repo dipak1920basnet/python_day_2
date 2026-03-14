@@ -26,3 +26,7 @@ print(f"Cart total: {cart_total}")
 # Adding a discount rule: 
 if cart_total > 1000:
     print("You get 10% discount")
+
+# price after discount 
+final_price = cart_total - (10/100)*cart_total 
+print(final_price)
