@@ -25,4 +25,8 @@ print("Updated GPA: ", gpa)
 if gpa >= 3.5:
     print("Honor Student")
 
-    
+# Inspect data types
+print(type(name))
+print(type(age))
+print(type(gpa))
+print(type(is_enrolled))
