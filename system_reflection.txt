@@ -1,0 +1,16 @@
+1️⃣ Why are data types critical in programming?
+=> store different types of data
+=> also helps to debug as this makes state tracking easier 
+
+2️⃣ What happens if a program mixes strings and numbers?
+=> This will generate type error 
+
+3️⃣ Why do engineers inspect program state often?
+=> Because programming is all about the state transformaion 
+=> inspection state will help us think for the new step 
+=> track our progress 
+=> find the current position of our program 
+=> also help us in debuging the program 
+
+4️⃣ What types of bugs arise from wrong data types?
+=> TypeError
