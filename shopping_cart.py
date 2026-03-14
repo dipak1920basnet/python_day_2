@@ -8,3 +8,8 @@ laptop_quantity = 10
 mouse_quantity = 30
 keyboard_quantity = 20
 
+# Update the state and store it 
+laptop_total = laptop_price * laptop_quantity
+mouse_total = mouse_price * mouse_quantity
+keyboard_total = keyboard_price  * keyboard_quantity
+
